@@ -6,7 +6,7 @@ cask "overview" do
   url "https://williampierce.io/overview/releases/v#{version}/Overview.dmg",
       verified: "github.com/williamcpierce/overview/"
   name "overview"
-  desc "Screen Capturing Software"
+  desc "Screen Capturing Software used for Eve Online or any other Applications"
   homepage "https://williampierce.io/overview/"
 
   livecheck do
